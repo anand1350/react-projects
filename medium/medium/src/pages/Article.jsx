@@ -24,7 +24,6 @@ export default function Article() {
             <MenuNewsArticles />
           </Col>
           <Col xs={4}>
-          
           </Col>
         </Row>
       </Container>
